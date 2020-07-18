@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/background2.jpg</file>
+        <file>images/bcg.png</file>
+        <file>images/icon_gold.png</file>
+        <file>images/newtower.png</file>
+        <file>images/newtower1.png</file>
+        <file>images/newtower2.png</file>
+        <file>images/newtower3.png</file>
+        <file>images/open_spot.png</file>
+        <file>images/tower.png</file>
+        <file>images/tower1.png</file>
+        <file>images/tower2.png</file>
+        <file>images/tower3.png</file>
+        <file>images/xhl.png</file>
+    </qresource>
+</RCC>
